@@ -1,3 +1,6 @@
 [submodule "Laundry-app"]
 	path = Laundry-app
 	url = https://github.com/rhs-projects/Laundry-app.git
+[submodule "F1-App"]
+	path = F1-App
+	url = https://github.com/rhs-projects/F1-App.git
