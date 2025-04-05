@@ -1,0 +1,3 @@
+[submodule "F1-App"]
+	path = F1-App
+	url = https://github.com/RadoslavHajso/F1-App.git
